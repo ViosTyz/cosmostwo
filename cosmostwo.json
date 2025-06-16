@@ -1,8 +1,12 @@
 {
-  "7732439757:AAEKmcEl2hX-d1_-PY7kgJk2ihUTDs1QMzA": {
-    "status": "aktif"
-  },
-  "7571963833:AAE_dtShG_CnotTgL_1fzeIGtrP6rKGftRc": {
-    "status": "aktif"
-  }
+  "bots": [
+    {
+      "token": "7732439757:AAEKmcEl2hX-d1_-PY7kgJk2ihUTDs1QMzA",
+      "status": "aktif"
+    },
+    {
+      "token": "7571963833:AAE_dtShG_CnotTgL_1fzeIGtrP6rKGftRc",
+      "status": "aktif"
+    }
+  ]
 }
